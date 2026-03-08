@@ -1,4 +1,4 @@
-# 🖥️ REKA-OS
+# 🖥️ REKA-OS v3.0
 
 <div align="center">
   <img src="https://img.shields.io/badge/Version-3.0-d2ff52?style=for-the-badge" />
@@ -48,8 +48,6 @@ Jika Anda ingin menjalankan atau memodifikasi proyek ini di komputer Anda sendir
 1. **Clone Repositori**
    ```bash
    git clone [https://github.com/Rezaa809/REKA-OS.git](https://github.com/Rezaa809/REKA-OS.git)
-
-
 
 
    
