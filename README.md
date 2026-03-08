@@ -1,4 +1,4 @@
-# 🖥️ REKA-OS v3.0
+# 🖥️ REKA-OS
 
 <div align="center">
   <img src="https://img.shields.io/badge/Version-3.0-d2ff52?style=for-the-badge" />
