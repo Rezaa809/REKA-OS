@@ -13,6 +13,19 @@
 
 ---
 
+## 📸 Visual Preview
+
+### **Halaman Login**
+Antarmuka autentikasi yang bersih dan minimalis, dirancang untuk menyambut pengguna ke dalam ekosistem REKA-OS.
+
+<div align="center">
+  <img src="assets/login-preview.png" alt="REKA-OS Login Screen" width="800">
+  <br>
+  <em>Tampilan autentikasi sistem REKA-OS v3.0</em>
+</div>
+
+---
+
 ## 🌌 Tentang Proyek
 **REKA-OS** bukan sekadar website portofolio biasa. Ini adalah simulasi lingkungan terminal yang memungkinkan pengunjung berinteraksi dengan proyek, data pribadi, dan sistem melalui baris perintah (*command line*). Dibangun dengan fokus pada kecepatan, desain minimalis, dan fungsionalitas murni.
 
@@ -48,6 +61,3 @@ Jika Anda ingin menjalankan atau memodifikasi proyek ini di komputer Anda sendir
 1. **Clone Repositori**
    ```bash
    git clone [https://github.com/Rezaa809/REKA-OS.git](https://github.com/Rezaa809/REKA-OS.git)
-
-
-   
