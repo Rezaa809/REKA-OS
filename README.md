@@ -21,7 +21,7 @@ Antarmuka autentikasi yang bersih dan minimalis, dirancang untuk menyambut pengg
 <div align="center">
   <img src="assets/login-preview.png" alt="REKA-OS Login Screen" width="800">
   <br>
-  <em>Tampilan autentikasi sistem REKA-OS v3.0</em>
+  <em>Tampilan Login Page REKA-OS v3.0</em>
 </div>
 
 ---
